@@ -17,4 +17,13 @@ Categories: 🔗 (Linked List), 🌳 (Trees), ⏱️ (DP/Time Complexity), 🔍 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/0007-reverse-integer/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
