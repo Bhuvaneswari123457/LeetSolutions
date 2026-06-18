@@ -26,4 +26,8 @@ Categories: 🔗 (Linked List), 🌳 (Trees), ⏱️ (DP/Time Complexity), 🔍 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
