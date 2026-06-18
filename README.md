@@ -29,6 +29,7 @@ Categories: 🔗 (Linked List), 🌳 (Trees), ⏱️ (DP/Time Complexity), 🔍 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0584-find-customer-referee](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1148-article-views-i](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhuvaneswari123457/LeetSolutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
